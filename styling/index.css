@@ -1,6 +1,6 @@
 body { 
   background-color:rgb(46, 38,36);;
-  background-image: url("/STScI-SMACS0723_webb.png");
+  background-image: url("https://apod.nasa.gov/apod/image/2307/STScI-SMACS0723_webb.png");
   color: #FFF8dc;
   font-family: "Lucida Console," monospace;
 }
