@@ -1,5 +1,6 @@
 body { 
-  background: #000 center/cover url("/STScI-SMACS0723_webb.png") no-repeat;
+  background-color:rgb(46, 38,36);;
+  background-image: url("/STScI-SMACS0723_webb.png");
   color: #FFF8dc;
   font-family: "Lucida Console," monospace;
 }
